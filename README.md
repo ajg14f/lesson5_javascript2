@@ -13,8 +13,7 @@ Alvaro Gonzalez
 We were tasked with making a currency exchange calculator using javascript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajg14f.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to create a program using an external js file.
